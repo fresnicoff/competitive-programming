@@ -1,0 +1,5 @@
+# Ignore all .vscode folders in any subdirectory
+.vscode/
+
+# Ignore all compiled output files with .out extension
+*.out
