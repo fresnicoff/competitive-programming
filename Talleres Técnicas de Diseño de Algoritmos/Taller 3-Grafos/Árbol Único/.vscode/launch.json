@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug C++",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/a.out",
+            "cwd": "${fileDirname}",
+            "preLaunchTask": "Build Debug",
+            "MIMode": "gdb",
+            "externalConsole": false
+        }
+    ]
+}
